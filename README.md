@@ -1,6 +1,6 @@
 # Olá! Eu sou o Diego! ✌️
 
-Eu sou um **Desenvolvedor Front-end**, moro em Santos/SP, e tive o meu primeiro encontro com a programação no ano de 2022 no Curso de `Técnico em Informática` do [Senac](https://www.sp.senac.br/) e desde de então me apaixonei, e procurei me aperfeiçoar ainda mais e encontrei a plataforma de estudos da [Alura](https://www.alura.com.br) e sou formado no [Senac Santos](https://www.sp.senac.br/senac-santos).
+Eu sou um **Desenvolvedor Front-end**, moro em Santos/SP, e tive o meu primeiro encontro com a programação no ano de 2022 no Curso de `Técnico em Informática` do [Senac](https://www.sp.senac.br/) onde eu me formei em 2023 e desde de então me apaixonei, e procurei me aperfeiçoar ainda mais e encontrei a plataforma de estudos da [Alura](https://www.alura.com.br) e sou formado no [Senac Santos](https://www.sp.senac.br/senac-santos).
 ##
 
 - Apaixonado pela tecnologia e ansioso para aplicar novas tecnologias e conhecer melhor mundo da programação.
