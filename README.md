@@ -1,7 +1,6 @@
 ### Ola Pessoal 👋
-- Atualmente Estudando no Senac Santos 📚.
-- Aprendendo Css e Html📖.
--  Redes🌎.
+- Formado no Senac Santos 📚.
+- Atualmente Estudando na Alura Front-End
 
 <div align="center">
   <a href="https://github.com/DiegoJunior">
