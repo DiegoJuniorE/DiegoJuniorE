@@ -1,8 +1,11 @@
-### Ola Pessoal 👋
-- Formado no Senac Santos 📚.
-- Atualmente Estudando na Alura Front-End
+# Olá! Eu sou o Diego! ✌️
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoJuniorE&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoJuniorE&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+Eu sou um **Desenvolvedor Front-end**, moro em Santos/SP, e tive o meu primeiro encontro com a programação no ano de 2022 no Curso de `Técnico em Informática` do [Senac](https://www.sp.senac.br/) e desde de então me apaixonei, e procurei me aperfeiçoar ainda mais e encontrei a plataforma de estudos da [Alura](https://www.alura.com.br) e sou formado no [Senac Santos](https://www.sp.senac.br/senac-santos).
+##
+
+- Apaixonado pela tecnologia e ansioso para aplicar novas tecnologias e conhecer melhor mundo da programação.
+- Amante de animais, gatos , cachorro etc.. Atualmente tenho um cachorro chamado Spike.
+- Nas horas vagas goste de jogar FPS e MMORPG :video_game:
+
+## :mega: Contato
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-junior-913673294/)
