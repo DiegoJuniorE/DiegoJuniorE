@@ -9,3 +9,10 @@ Eu sou um **Desenvolvedor Front-end**, moro em Santos/SP, e tive o meu primeiro 
 
 ## :mega: Contato
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-junior-913673294/)
+
+## :mechanical_arm: Tecnologias
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoJuniorE&theme=holi&custom_title=Principais%20%Linguagens)
